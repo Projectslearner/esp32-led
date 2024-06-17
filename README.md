@@ -12,7 +12,7 @@ Resistor: A 220-ohm resistor is recommended to limit the current through the LED
 Breadboard: For easy circuit assembly.
 Jumper Wires: For connecting components on the breadboard.
 Circuit Diagram
- (Replace with actual diagram URL)
+
 
 Connect the components as follows:
 
